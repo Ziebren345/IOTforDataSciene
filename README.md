@@ -15,3 +15,9 @@ Voor een verbinding met het internet gebruiken mijn eigen thuisnetwerk.
 # Cloud
 Als cloud gebruik ik Thingsspeak, omdat deze gratis is voor non-commerciele doeleinden, en deze veel support heeft op andere platformen.
 
+
+# Stap 1
+Als eerste moeten er een aantal dingen geinstaleerd en aangemaakt worden.
+Voor de Pi moet je op Rasbarrian Node-Red downloaden. Deze is te vinden onder aanbevolen apps. Daarna moet je in Node-Red check of je de GPIO nodes hebt, zo ja moet je bij managne pallete thingspeak42 downloaden. deze zal de connectie met Thingspeak regelen. Als je de GPIO nodes nog niet heb moet je die ook eerst downloaden. Daarna moet je ook een account aanmaken voor Thingspeak.
+
+# Stap 2
