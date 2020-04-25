@@ -23,4 +23,4 @@ Voor de Pi moet je op Rasbarrian Node-Red downloaden. Deze is te vinden onder aa
 # Stap 2
 De tweede stap is verbinden van de sensor en deze via node red verbinden met thingspeak.
 ![Foto van fysieke setup](https://github.com/Ziebren345/IOTforDataSciene/blob/master/WhatsApp%20Image%202020-04-25%20at%2012.20.14.jpeg)
-
+Vervolgens moet je in node-red met de de GPIO node en Thingspeaknode een flow maken die er als volgt uitziet
